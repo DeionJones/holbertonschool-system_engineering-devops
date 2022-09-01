@@ -1,2 +1,2 @@
 #!/bin/bash
-../*.html ../../folder_destination
+cp -r dir1 dir2
