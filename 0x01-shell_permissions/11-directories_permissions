@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ugo+x 
+sudo chmod ugo+x 
