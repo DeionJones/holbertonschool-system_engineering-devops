@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ugo+r hello
+sudo chmod 111 hello
