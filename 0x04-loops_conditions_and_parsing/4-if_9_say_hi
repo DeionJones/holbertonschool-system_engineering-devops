@@ -1,4 +1,4 @@
-#!/bin/usr/env bash
+#!/usr/bin/env bash
 # This script is displaying "Best School" 10 times and on the 9th iteration "Hi" will be on a new line
 x=1
 while [ $x -le 10 ]
