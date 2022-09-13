@@ -11,4 +11,5 @@ else
 echo "Best School"
 fi
 x=$((x + 1))
+((i++))
 done
