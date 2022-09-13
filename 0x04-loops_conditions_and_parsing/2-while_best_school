@@ -1,9 +1,10 @@
 #!/ur/bin/env bash
 # This script is displaying "Best School" 10 times
 x=1
-while [ $x - 1e 10 ]
+while [ $x -le 10 ]
 do
 echo "Best School"
 x=$((x + 1))
 ((i++))
-done 
+done
+export i
