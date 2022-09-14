@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script is displaying the proccesses in a list
+ps auxf
